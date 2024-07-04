@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Hello, my name is Kaguranotamashii, which is the Romanized pronunciation of the Japanese phrase 'Kagura no Tamashii'
 <!--
 **Kaguranotamashii/Kaguranotamashii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
